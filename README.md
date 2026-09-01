@@ -10,11 +10,17 @@ The internship involved data cleaning, exploratory data analysis, business analy
 
 ### Task 1 – Data Cleaning & Data Preparation
 
-[View Task 1 Notebook](./TASK1(DATA_ANALYTICS).ipynb)
+**Files:**
+
+- [Task 1 Analysis Notebook](./TASK1%28DATA_ANALYTICS%29.ipynb)
+- [Original Dataset](./ApexPlanet_DataAnalytics_Dataset.xlsx)
+- [Cleaned Dataset](./Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx)
+- [Data Dictionary](./Data_Dictionary%28Task1%29.xlsx)
 
 In Task 1, I worked on understanding and preparing the sales dataset for analysis.
 
-**Key work:**
+**Key Work:**
+
 - Understanding the dataset
 - Data cleaning and preparation
 - Creating a data dictionary
@@ -22,6 +28,7 @@ In Task 1, I worked on understanding and preparing the sales dataset for analysi
 - Preparing the dataset for further analysis
 
 **Tools & Skills:**
+
 - Python
 - Pandas
 - Data Cleaning
@@ -32,9 +39,15 @@ In Task 1, I worked on understanding and preparing the sales dataset for analysi
 
 ### Task 2 – Exploratory Data Analysis
 
+**Files:**
+
+- [Task 2 Analysis Notebook](./TASK2%28DATA_ANALYTICS%29.ipynb)
+- [Cleaned Dataset Used in Task 2](./TASK2%20-%20Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx)
+
 In Task 2, I performed exploratory data analysis to understand sales performance and identify important patterns.
 
-**Key analysis:**
+**Key Analysis:**
+
 - Category-wise sales analysis
 - Product-wise revenue analysis
 - City-wise sales analysis
@@ -44,6 +57,7 @@ In Task 2, I performed exploratory data analysis to understand sales performance
 - Business insights
 
 **Tools & Skills:**
+
 - Python
 - Pandas
 - Matplotlib
@@ -55,9 +69,15 @@ In Task 2, I performed exploratory data analysis to understand sales performance
 
 ### Task 3 – Deep-Dive Analysis & Interactive Dashboard
 
+**Files:**
+
+- [Power BI Dashboard](./TASK3.pbix)
+- [Deep-Dive Analysis Report](./ApexPlanet_Task3_Deep_Dive_Analysis_Report.pdf)
+
 In Task 3, I performed deeper business analysis and created an interactive Power BI dashboard.
 
-**Key analysis:**
+**Key Analysis:**
+
 - Revenue and sales performance
 - Category performance
 - Product performance
@@ -69,6 +89,7 @@ In Task 3, I performed deeper business analysis and created an interactive Power
 - Interactive filtering
 
 **Tools & Skills:**
+
 - Power BI
 - Data Visualization
 - Dashboard Development
@@ -80,9 +101,16 @@ In Task 3, I performed deeper business analysis and created an interactive Power
 
 ### Task 4 – Data Storytelling & Statistical Validation
 
+**Files:**
+
+- [Task 4 Analysis Notebook](./TASK4%28DATA_ANALYTICS%29.ipynb)
+- [Task 4 Presentation](./ApexPlanet%28Task4%29.pptx)
+- [Hypothesis Testing Results](./Task4_Hypothesis_Testing_Results.xlsx)
+
 In Task 4, I combined the findings from the previous tasks into a business story and validated an important customer-related finding using statistical testing.
 
-**Key work:**
+**Key Work:**
+
 - Business objective definition
 - Dataset overview
 - Overall sales performance analysis
@@ -102,6 +130,7 @@ The independent two-sample t-test produced a p-value of approximately **0.4950**
 Since the p-value is greater than the significance level of **0.05**, the difference between male and female average sales was not statistically significant.
 
 **Tools & Skills:**
+
 - Python
 - Pandas
 - SciPy
@@ -115,6 +144,7 @@ Since the p-value is greater than the significance level of **0.05**, the differ
 ## Key Skills Demonstrated
 
 ### Technical Skills
+
 - Python
 - Pandas
 - Matplotlib
@@ -128,6 +158,7 @@ Since the p-value is greater than the significance level of **0.05**, the differ
 - Dashboard Development
 
 ### Analytical Skills
+
 - Business Problem Understanding
 - KPI Analysis
 - Trend Analysis
@@ -140,6 +171,7 @@ Since the p-value is greater than the significance level of **0.05**, the differ
 - Data-driven Decision Making
 
 ### Communication Skills
+
 - Data Storytelling
 - Business Presentation
 - Dashboard Presentation
