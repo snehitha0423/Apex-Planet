@@ -10,6 +10,8 @@ The internship involved data cleaning, exploratory data analysis, business analy
 
 ### Task 1 – Data Cleaning & Data Preparation
 
+[View Task 1 Notebook](./TASK1(DATA_ANALYTICS).ipynb)
+
 In Task 1, I worked on understanding and preparing the sales dataset for analysis.
 
 **Key work:**
